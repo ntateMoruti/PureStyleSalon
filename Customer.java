@@ -8,4 +8,8 @@ public class Customer{
     customerName = name;
     customerAddress = address;
   }
+
+  public void setCustomerName( String name ){
+    customerName = name;
+  }
 }
