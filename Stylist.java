@@ -8,7 +8,7 @@
  * @author GiftMaputle
  */
 public class Teacher extends javax.swing.JFrame {
-
+    private javax.swing.JLabel;
     /**
      * Creates new form Teacher
      */
