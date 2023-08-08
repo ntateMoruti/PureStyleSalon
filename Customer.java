@@ -9,7 +9,7 @@ public class Customer{
     customerAddress = address;
   }
 
-  public void setCustomerName( String customerName ){
-    this.customerName = customerName;
+  public void setCustomerName( String name ){
+    this.customerName = name;
   }
 }
